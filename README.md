@@ -3,19 +3,18 @@
 2. Fozan Bebe Moreno (1313620041)
 3. Saire Fernando (1313620043)
 
+# Latar Belakang
+
+
+<p>Banyak orangtua yang mengalami kesusahan saat mencari SMA yang bagus dan cocok untuk anak-anaknya, banyak yang kesulitan karena lokasi sekolah yang jauh, harga yang tidak terjangkau, fasilitas yang tidak lengkap, pendidikan yang kurang dan banyak lagi. Hal ini membuat banyak orangtua mengalami kesalahan saat memilih SMA untuk anak-anaknya sehingga pendidikan yang diterima oleh anaknya tidak sesuai atau maksimal.</p> 
+<p>Oleh karena itu, kami terpikir untuk membuat pencarian data SMA yaitu program yang dapat digunakan untuk mencari data-data penting SMA dengan mudah dan cepat. Dengan adanya program ini kami berharap mereka mendapatkan kemudahan saat mencari SMA untuk anak-anaknya dan dapat memberikan SMA yang terbaik bagi mereka semua.</p>
+
 
 # Pencarian Data Sekolah Menengah Atas di Provinsi D.K.I Jakarta
 
 
 <p>Kami membuat sebuah program berbasis website yang digunakan untuk mencari data SMA di Provinsi DKI Jakarta. Dalam melakukan pencarian data ada beberapa parameter yang digunakan yaitu, Kabupaten dan Kota, Kecamatan, status sekolah, NPSN, dan nama sekolah.</p>  
 <p>Untuk mencari data sekolah di cakupan daerah tertentu user perlu memasukan sebanyak tiga parameter yaitu, Kabupaten dan Kota, Kecamatan, status sekolah, Sedangkan untuk mencari data satu sekolah tertentu user perlu memasukan NPSN atau nama sekolah yang ingin dicari.</p>
-
-
-# Latar Belakang
-
-
-<p>Banyak orangtua yang mengalami kesusahan saat mencari SMA yang bagus dan cocok untuk anak-anaknya, banyak yang kesulitan karena lokasi sekolah yang jauh, harga yang tidak terjangkau, fasilitas yang tidak lengkap, pendidikan yang kurang dan banyak lagi. Hal ini membuat banyak orangtua mengalami kesalahan saat memilih SMA untuk anak-anaknya sehingga pendidikan yang diterima oleh anaknya tidak sesuai atau maksimal.</p> 
-<p>Oleh karena itu, kami terpikir untuk membuat pencarian data SMA yaitu program yang dapat digunakan untuk mencari data-data penting SMA dengan mudah dan cepat. Dengan adanya program ini kami berharap mereka mendapatkan kemudahan saat mencari SMA untuk anak-anaknya dan dapat memberikan SMA yang terbaik bagi mereka semua.</p>
 
 
 ## Interaksi yang Digunakan :
